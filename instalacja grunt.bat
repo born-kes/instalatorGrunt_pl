@@ -18,3 +18,8 @@ npm init
 
 
 y
+
+// instalacja modułu Grunt.js
+npm install grunt --save-dev
+// --save :instaluje dla serwera node.js wraz z instrukcją
+// --dev :- devDependencies powiązanie z plikiem package.json
