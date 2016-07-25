@@ -23,3 +23,11 @@ y
 npm install grunt --save-dev
 // --save :instaluje dla serwera node.js wraz z instrukcją
 // --dev :- devDependencies powiązanie z plikiem package.json
+
+// instalacja rozszerzeń dla Grunt.js
+// npm install [nazwa-modulu] --save-dev
+
+// watch : rozszerzenie obserwuje zmiany w plikach i automatycznie uruchamia określone zadania i odświeża strone, lub aplikacje
+npm install grunt-contrib-watch --save-dev
+
+// grunt-contrib- :przedrostek określający że moduł pochodzi od zespołu grunt, a nie od społeczności
