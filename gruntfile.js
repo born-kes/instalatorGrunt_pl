@@ -18,11 +18,17 @@ module.exports = function (grunt) {
                 }
             },
         },
+        karma: {
+            unit: {
+                configFile: 'config/karma.config.js'
+            }
+        },
 
     });
 
     // ładowanie rozszerzeń dla Grunt,js
     grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.loadNpmTasks('grunt-karma');
 
 
     // rejestrowanie domyślnego zestawu zadań dla Grunt.js
