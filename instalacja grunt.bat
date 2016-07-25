@@ -4,3 +4,17 @@
 
 // Instalacja obsługi modułu Grunt.js
 npm install -g grunt-cli
+
+// genrowanie pliku Package.json
+// :plik konfiguracyjny lub opisowy dla danego plojektu
+npm init
+
+
+
+
+
+
+
+
+
+y
