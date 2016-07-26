@@ -33,5 +33,6 @@ module.exports = function (grunt) {
 
     // rejestrowanie domyślnego zestawu zadań dla Grunt.js
     grunt.registerTask('default', ['watch']);
+    grunt.registerTask('goKarma', ['karma']);
 
 };
