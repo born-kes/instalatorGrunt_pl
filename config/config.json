@@ -1,0 +1,11 @@
+{
+  "grunt": {
+    "author": "KES",
+    "name": "Instalator Grunt",
+    "version": "03",
+    "configversion": "2",
+    "description": "testowy instalator grunt",
+    "license": "ISC"
+  }
+}
+
